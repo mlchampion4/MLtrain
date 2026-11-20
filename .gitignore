@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+data/cifar10/
+*.pth
+.ipynb_checkpoints/
+.DS_Store
